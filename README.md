@@ -10,3 +10,13 @@
 .gallery-img:hover{
     transform:scale(1.03);
 }
+
+images/
+├── portraits/
+├── nature/
+├── street/
+├── wildlife/
+└── events/
+<img src="images/portraits/model1.jpg">
+<img src="images/nature/sunset.jpg">
+<img src="images/street/market.jpg">
